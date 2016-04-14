@@ -7,5 +7,5 @@ public class Test {
 		}
 	}
 }
-// I add some comments here to show that i hava changed it.
+// I add some comments here to show that i hava changed it.(more changes)
 // This is the SW seminar2.
