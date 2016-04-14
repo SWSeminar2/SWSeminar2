@@ -15,4 +15,4 @@ public class Test {
 // Second
 >>>>>>> origin/test
 
-// add some comments.
+// add some
