@@ -7,6 +7,12 @@ public class Test {
 		}
 	}
 }
+<<<<<<< HEAD
 // I add some comments here to show that i hava changed it.
 // This is the SW seminar2.
+=======
+// This is the SW seminar2.
 // Second
+>>>>>>> origin/test
+
+// add some comments.
